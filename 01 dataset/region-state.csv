@@ -1,0 +1,52 @@
+State,State Code,Region,Division,Region_code
+Alaska,AK,West,Pacific,WR
+Alabama,AL,South,East South Central,SR
+Arkansas,AR,South,West South Central,SR
+Arizona,AZ,West,Mountain,WR
+California,CA,West,Pacific,WR
+Colorado,CO,West,Mountain,WR
+Connecticut,CT,Northeast,New England,NER
+District of Columbia,DC,South,South Atlantic,SR
+Delaware,DE,South,South Atlantic,SR
+Florida,FL,South,South Atlantic,SR
+Georgia,GA,South,South Atlantic,SR
+Hawaii,HI,West,Pacific,WR
+Iowa,IA,Midwest,West North Central,MWR
+Idaho,ID,West,Mountain,WR
+Illinois,IL,Midwest,East North Central,MWR
+Indiana,IN,Midwest,East North Central,MWR
+Kansas,KS,Midwest,West North Central,MWR
+Kentucky,KY,South,East South Central,SR
+Louisiana,LA,South,West South Central,SR
+Massachusetts,MA,Northeast,New England,NER
+Maryland,MD,South,South Atlantic,SR
+Maine,ME,Northeast,New England,NER
+Michigan,MI,Midwest,East North Central,MWR
+Minnesota,MN,Midwest,West North Central,MWR
+Missouri,MO,Midwest,West North Central,MWR
+Mississippi,MS,South,East South Central,SR
+Montana,MT,West,Mountain,WR
+North Carolina,NC,South,South Atlantic,SR
+North Dakota,ND,Midwest,West North Central,MWR
+Nebraska,NE,Midwest,West North Central,MWR
+New Hampshire,NH,Northeast,New England,NER
+New Jersey,NJ,Northeast,Middle Atlantic,NER
+New Mexico,NM,West,Mountain,WR
+Nevada,NV,West,Mountain,WR
+New York,NY,Northeast,Middle Atlantic,NER
+Ohio,OH,Midwest,East North Central,MWR
+Oklahoma,OK,South,West South Central,SR
+Oregon,OR,West,Pacific,WR
+Pennsylvania,PA,Northeast,Middle Atlantic,NER
+Rhode Island,RI,Northeast,New England,NER
+South Carolina,SC,South,South Atlantic,SR
+South Dakota,SD,Midwest,West North Central,MWR
+Tennessee,TN,South,East South Central,SR
+Texas,TX,South,West South Central,SR
+Utah,UT,West,Mountain,WR
+Virginia,VA,South,South Atlantic,SR
+Vermont,VT,Northeast,New England,NER
+Washington,WA,West,Pacific,WR
+Wisconsin,WI,Midwest,East North Central,MWR
+West Virginia,WV,South,South Atlantic,SR
+Wyoming,WY,West,Mountain,WR

@@ -1,0 +1,201 @@
+CustomerID,first_name,last_name,email,gender,PhoneNumber,DateOfBirth,PreferredLanguage,StreetAddress,City,State,PostalCode,Country,Loyalty Program Tier,FavoriteGenres,Marketing Opt-In Status,Membership Status,PreferredContactMethod,Region_code
+01JSX07TDBR41PWX1D275SEBF2,Talbert,Astridge,tastridge0@netscape.com,Male,(928) 6306305,2/10/1961,Vietnamese,1692 Green Ridge Terrace,Prescott,Arizona,86305,USA,Bronze,Drama|Horror|Thriller,No,Basic,Phone Call,WR
+01JSX07TDNMGHMDPJE7ZH49025,Obadias,Malling,omalling1@about.me,Male,(410) 2231815,1/13/1991,German,2832 Merry Plaza,Baltimore,Maryland,21239,USA,Silver,Horror,No,Premier,SMS,SR
+01JSX07TDQQN0MDDPSJBTQCWWE,Bear,Crosi,bcrosi2@phoca.cz,Male,(814) 1848324,3/18/1947,Korean,9 Old Shore Court,Johnstown,Pennsylvania,15906,USA,Gold,Documentary|Musical,No,Basic,Phone Call,NER
+01JSX07TDS5C4DFJYS4D9YAP9M,Roddie,Bartels-Ellis,rbartelsellis3@yahoo.co.jp,Male,(206) 3301610,12/26/1944,English,101 Hanson Circle,Kent,Washington,98042,USA,Platinum,Drama,No,Basic,Phone Call,WR
+01JSX07TDVTCJKFJKC1XD25GC0,Joli,Ingleton,jingleton4@patch.com,Female,(312) 4903347,2/11/1998,Vietnamese,7210 Acker Drive,Chicago,Illinois,60609,USA,Bronze,Action|Animation|Crime|Sci-Fi|Thriller,Email,Basic,SMS,MWR
+01JSX07TDY00TVRBYEA2J3FB8M,Hermon,Turnock,hturnock5@ox.ac.uk,Male,(303) 4568622,8/7/1952,French,8333 Hovde Parkway,Denver,Colorado,80217,USA,Silver,Drama|Thriller,Email,Basic,Phone Call,WR
+01JSX07TDZFSAAZQS5MQMCTVX6,George,Jilliss,gjilliss6@bigcartel.com,Male,(302) 3653700,10/19/1962,German,134 Alpine Junction,Wilmington,Delaware,19892,USA,Gold,Documentary|Drama|War,No,Elite,Phone Call,SR
+01JSX07TE1FQ59P37VMZTJNNR7,Katrina,Sugge,ksugge7@zdnet.com,Female,(772) 6949167,3/27/1956,Arabic,4079 Darwin Trail,Vero Beach,Florida,32964,USA,Platinum,Animation|Children,SMS,Plus,Phone Call,SR
+01JSX07TE3189TJ266CN288JFM,Clarey,Langshaw,clangshaw8@china.com.cn,Female,(323) 6602783,10/12/1977,Spanish,12124 Drewry Street,Los Angeles,California,90065,USA,Bronze,Comedy,No,Basic,Email,WR
+01JSX07TE53XDYN6DB3EGVNT9G,Adriena,Kleinber,akleinber9@arstechnica.com,Female,(210) 7642493,3/15/1962,French,63 Larry Court,San Antonio,Texas,78205,USA,Silver,Comedy,Email,Basic,Phone Call,SR
+01JSX07TE738XFDWC21WYGA67V,Gloriana,Winchurch,gwinchurcha@berkeley.edu,Female,(405) 5540256,3/5/1999,Chinese,41431 Golf Course Lane,Oklahoma City,Oklahoma,73142,USA,Gold,Thriller,No,Basic,SMS,SR
+01JSX07TE9PE3WNDJRTT10HCAN,Tadd,Thornewill,tthornewillb@cnn.com,Male,(443) 9676563,9/12/1981,French,00589 Shasta Plaza,Baltimore,Maryland,21239,USA,Platinum,Thriller,Email,Basic,Email,SR
+01JSX07TEDE1ZZZPDM23318R2K,Reube,Dufer,rduferc@51.la,Male,(212) 2527470,12/25/1956,Chinese,1366 Dunning Place,New York City,New York,10184,USA,Bronze,Animation,SMS,Basic,Phone Call,NER
+01JSX07TEHKQ5PWAFGT5YBWJZX,Ogden,Nicklen,onicklend@w3.org,Male,(409) 4044728,5/26/1952,English,5 Pond Way,Beaumont,Texas,77705,USA,Silver,Horror,No,Basic,Phone Call,SR
+01JSX07TEKFNTCCABE2D2YREQB,Filmer,Melrose,fmelrosee@oakley.com,Male,(202) 2289424,8/10/1940,French,02 Bartillon Road,Washington,District of Columbia,20591,USA,Gold,Comedy,No,Basic,Phone Call,SR
+01JSX07TENTDGXVJDH7J8KCTCF,Errol,Taylo,etaylof@nymag.com,Male,(915) 5330536,2/9/1950,Spanish,8 Parkside Alley,El Paso,Texas,88558,USA,Platinum,Comedy|Drama,SMS,Basic,Phone Call,SR
+01JSX07TEPA0ZXGRXVZBJ9BFVY,Ephrayim,Rodgier,erodgierg@tinypic.com,Male,(304) 8532748,2/12/1982,Korean,059 Dakota Road,Huntington,West Virginia,25716,USA,Bronze,Crime|Drama,No,Plus,Email,SR
+01JSX07TESVDKHQWQWRD5HT6N5,Rutter,Maddaford,rmaddafordh@marriott.com,Male,(862) 7202123,8/23/1972,French,2028 Grayhawk Plaza,Newark,New Jersey,7195,USA,Silver,Drama,No,Basic,Email,NER
+01JSX07TETV0WXZVHY2AYR0AJW,Natala,Seger,nsegeri@linkedin.com,Female,(804) 8197676,12/29/1995,English,2590 Basil Place,Richmond,Virginia,23242,USA,Gold,Comedy|Romance,No,Premier,SMS,SR
+01JSX07TEXD30CE3TK5YMX7NGH,Crissie,Hebble,chebblej@hugedomains.com,Female,(601) 4070372,1/27/1982,Spanish,0 Namekagon Street,Meridian,Mississippi,39305,USA,Platinum,Animation|Children|Comedy|Drama|Fantasy,No,Plus,Email,SR
+01JSX07TEZ33282V3SHKYXF1A7,Desmund,Kembery,dkemberyk@oracle.com,Male,(917) 3285762,12/10/1975,German,0010 Glendale Center,New York City,New York,10105,USA,Bronze,Drama,SMS,Plus,Email,NER
+01JSX07TF0F2CBMRQ0S6NMZ6BT,Thorny,Goodridge,tgoodridgel@typepad.com,Male,(314) 8883519,11/14/1994,English,8 Harbort Court,Saint Louis,Missouri,63143,USA,Silver,Drama,SMS,Plus,SMS,MWR
+01JSX07TF2T614P4V8C7P5N1NX,Yurik,Orpwood,yorpwoodm@amazon.de,Male,(972) 7269739,5/30/1940,Russian,6338 Northport Avenue,Dallas,Texas,75205,USA,Gold,Crime|Drama,No,Premier,Phone Call,SR
+01JSX07TGNSHZMF9TCTSZHNKXN,Filip,Kahen,fkahenn@addthis.com,Male,(571) 7264320,6/2/1961,Chinese,80 Bluestem Way,Arlington,Virginia,22212,USA,Platinum,Action|Drama,No,Basic,Phone Call,SR
+01JSX07TGSJ8YP3470AQEPXKBY,Martina,Rudram,mrudramo@multiply.com,Female,(734) 4053672,9/1/1968,French,02 Jenna Place,Ann Arbor,Michigan,48107,USA,Bronze,Comedy,No,Basic,Email,MWR
+01JSX07TGVZV5WR4CTDRBKFT1H,Harriott,Leatham,hleathamp@businessweek.com,Female,(412) 7440212,11/30/1978,German,1 Swallow Hill,Pittsburgh,Pennsylvania,15250,USA,Silver,Action|Crime|Thriller,No,Basic,Email,NER
+01JSX07TGYZM0BAA6DYGZSKAK8,Luke,Reddish,lreddishq@g.co,Male,(304) 7715551,4/9/1958,Vietnamese,532 Esker Junction,Huntington,West Virginia,25721,USA,Gold,Comedy|Horror|Musical,SMS,Basic,Phone Call,SR
+01JSX07TH0VKZMEKR8SXQ8R5TA,Nicolais,Compfort,ncompfortr@storify.com,Male,(615) 3086713,11/1/1974,Arabic,76 Toban Road,Nashville,Tennessee,37235,USA,Platinum,Crime|Drama,No,Basic,Email,SR
+01JSX07TH2RXQX5CZD0XSB47DN,Tyler,Joncic,tjoncics@washington.edu,Male,(806) 6434401,9/3/2000,Korean,41168 Charing Cross Parkway,Lubbock,Texas,79405,USA,Bronze,Documentary,SMS,Plus,SMS,SR
+01JSX07TH42EAXGHPAMBFVFB2Q,Portie,Kempton,pkemptont@sfgate.com,Male,(480) 4888544,3/29/1952,French,82452 Karstens Hill,Scottsdale,Arizona,85260,USA,Silver,Drama,No,Plus,Phone Call,WR
+01JSX07TH6DKA2GP3NN99GW05V,Libbi,Emlen,lemlenu@nasa.gov,Female,(318) 7779790,5/21/1947,Spanish,853 Porter Park,Shreveport,Louisiana,71137,USA,Gold,Action|Thriller,No,Basic,Phone Call,SR
+01JSX07TH9F5QRS80WHNK0Q31N,Jocko,Trace,jtracev@ucoz.ru,Male,(303) 2424480,11/24/1943,Chinese,0 Truax Lane,Boulder,Colorado,80310,USA,Platinum,Comedy|Drama|Horror,No,Basic,Phone Call,WR
+01JSX07THB3D9GEMGWM6B2B1FV,Joanna,Hardware,jhardwarew@mac.com,Female,(716) 7447778,2/7/1960,Arabic,93181 Walton Plaza,Buffalo,New York,14263,USA,Bronze,Comedy,No,Basic,Phone Call,NER
+01JSX07THD0S7E1M9517E0QBM9,Lauren,Allward,lallwardx@sbwire.com,Female,(406) 7037467,10/6/1976,English,28 Cascade Place,Helena,Montana,59623,USA,Silver,Comedy|Drama,No,Basic,Email,WR
+01JSX07THFACX9V01ARH09974T,Myrvyn,Dennert,mdennerty@netscape.com,Male,(260) 2332371,9/29/1965,French,653 Butterfield Lane,Fort Wayne,Indiana,46805,USA,Gold,Documentary,No,Basic,Phone Call,MWR
+01JSX07THH0QZ47VP7Y7XBDWCK,Bayard,Ennor,bennorz@redcross.org,Male,(915) 3875374,10/3/1998,Vietnamese,981 Arkansas Way,El Paso,Texas,79989,USA,Platinum,(no genres listed),No,Basic,SMS,SR
+01JSX07THKSMAZ14BH33M1NMCK,Bud,Kedwell,bkedwell10@npr.org,Male,(321) 8208293,8/23/1953,German,862 Roth Trail,Palm Bay,Florida,32909,USA,Bronze,Action,No,Elite,Phone Call,SR
+01JSX07THNSFBSWMXD0FP2TRVM,Reinaldos,MacFie,rmacfie11@census.gov,Male,(916) 4285636,6/30/1959,Arabic,7 Killdeer Center,Sacramento,California,94207,USA,Silver,Drama|Romance,No,Basic,Phone Call,WR
+01JSX07THQTP54G906H1YZAETT,Di,Marchello,dmarchello12@fema.gov,Female,(765) 1335363,2/10/2007,French,49 Grim Way,Crawfordsville,Indiana,47937,USA,Gold,Mystery|Sci-Fi|Thriller|IMAX,Email,Premier,SMS,MWR
+01JSX07THSNVBVK630RXKBTWM5,Cathyleen,Chapelhow,cchapelhow13@bigcartel.com,Female,(312) 8422767,4/21/1995,Arabic,95 Reindahl Plaza,Chicago,Illinois,60674,USA,Platinum,Crime,No,Basic,SMS,MWR
+01JSX07THVR87J8MH4A9PN254J,Meade,Glyde,mglyde14@cnet.com,Male,(626) 3271410,4/20/1968,Russian,90 Darwin Circle,Pasadena,California,91186,USA,Bronze,Crime|Drama,No,Elite,Email,WR
+01JSX07THX9Z8T71QC0JCHQAK5,Liza,Bowdery,lbowdery15@berkeley.edu,Female,(612) 8326713,9/30/1953,Korean,6 Meadow Ridge Road,Minneapolis,Minnesota,55487,USA,Silver,Thriller,No,Elite,Phone Call,MWR
+01JSX07THZ1X5FNV3SPBK14D36,Wesley,Hillin,whillin16@wunderground.com,Male,(214) 6695473,7/22/1942,French,1 Leroy Road,Dallas,Texas,75216,USA,Gold,Thriller,Email,Basic,Phone Call,SR
+01JSX07TJ13VZMVXJM55K1AMND,Hillyer,Champness,hchampness17@ucoz.com,Male,(305) 4089305,1/23/2001,Vietnamese,83 International Way,Miami,Florida,33175,USA,Platinum,Drama,Email,Basic,SMS,SR
+01JSX07TJ3MWGDQ3YV7ENGMZKB,Sampson,Paffett,spaffett18@i2i.jp,Male,(208) 1323606,8/6/1978,Russian,401 Coleman Park,Boise,Idaho,83727,USA,Bronze,Drama|Thriller,No,Basic,Email,WR
+01JSX07TJ5VFGWE79N98H3QZK8,Maudie,Whittier,mwhittier19@ox.ac.uk,Female,(774) 6500918,6/16/2001,Korean,2889 Fieldstone Junction,Worcester,Massachusetts,1610,USA,Silver,Comedy|Thriller,No,Basic,SMS,NER
+01JSX07TJ7RA2FMQW74905CGA8,Darby,Caesmans,dcaesmans1a@latimes.com,Female,(406) 9172069,8/21/1961,Korean,2 Mosinee Way,Bozeman,Montana,59771,USA,Gold,Mystery|Thriller,SMS,Plus,Phone Call,WR
+01JSX07TJ9WG4MS95MR1PJ6F81,Atalanta,Wix,awix1b@ycombinator.com,Female,(865) 8082687,5/21/1950,Russian,2 Hazelcrest Center,Knoxville,Tennessee,37919,USA,Platinum,Drama,No,Basic,Phone Call,SR
+01JSX07TJBDPKT20RJNCBSJ0YJ,Josiah,Critchley,jcritchley1c@facebook.com,Male,(305) 8916483,6/21/2007,French,2117 Sullivan Trail,Miami,Florida,33261,USA,Bronze,Comedy,No,Basic,SMS,SR
+01JSX07TJDYN6E3C6EK8284X5F,Sigismondo,Darlaston,sdarlaston1d@state.gov,Male,(254) 2073112,9/21/1996,German,3118 Spohn Point,Killeen,Texas,76544,USA,Silver,Adventure|Drama|Thriller,Email + SMS,Basic,SMS,SR
+01JSX07TJFW878TAM43HR8WGVP,Gilburt,Giacobelli,ggiacobelli1e@hugedomains.com,Male,(502) 2091974,9/28/1955,French,9228 Montana Park,Louisville,Kentucky,40256,USA,Gold,Comedy|Romance,Email + SMS,Basic,Phone Call,SR
+01JSX07TJHG5HTX1P366XWZRWS,Cleve,Matous,cmatous1f@unicef.org,Male,(512) 5881064,7/6/1995,Chinese,78204 Wayridge Avenue,Austin,Texas,78769,USA,Platinum,Crime|Drama|Horror,No,Basic,SMS,SR
+01JSX07TJKP32GSK8F95KNP6TH,Dana,Whiles,dwhiles1g@ox.ac.uk,Male,(303) 3780434,5/9/1992,Arabic,650 Dunning Junction,Denver,Colorado,80255,USA,Bronze,Action|Animation|Sci-Fi,Email,Basic,SMS,WR
+01JSX07TJM7C9S9337SQVHAP3J,Aurlie,Lockless,alockless1h@mac.com,Female,(619) 9213230,1/10/1944,Spanish,6 Glacier Hill Trail,Chula Vista,California,91913,USA,Silver,Documentary,No,Plus,Phone Call,WR
+01JSX07TJPC3ZQ8AT3CKYSBY6H,Georgette,Heffernan,gheffernan1i@umich.edu,Female,(214) 4814135,11/8/1950,Korean,385 Hallows Alley,Garland,Texas,75049,USA,Gold,Comedy|Documentary,Email,Basic,Phone Call,SR
+01JSX07TJRKF350CNV4PE904CQ,Lacee,Jopling,ljopling1j@istockphoto.com,Female,(678) 7576341,11/13/1957,Chinese,593 Iowa Pass,Atlanta,Georgia,30323,USA,Platinum,Drama,No,Basic,Phone Call,SR
+01JSX07TJTSQ5J7PHZ5PC38913,Kit,Blaszczyk,kblaszczyk1k@wsj.com,Female,(949) 5024089,9/17/1946,Vietnamese,3841 Bashford Alley,Irvine,California,92619,USA,Bronze,Documentary,No,Plus,Phone Call,WR
+01JSX07TJW5DRZA20N1TE07G1H,Bert,Runciman,brunciman1l@myspace.com,Female,(434) 2141287,5/6/1976,Chinese,591 Ramsey Plaza,Charlottesville,Virginia,22903,USA,Silver,Drama|Romance,No,Basic,Email,SR
+01JSX07TJYF22MTY8EFTF9B1YX,Mercie,Elderfield,melderfield1m@pbs.org,Female,(407) 9823611,9/16/2007,Russian,2874 Sachs Drive,Orlando,Florida,32885,USA,Gold,Documentary,No,Basic,SMS,SR
+01JSX07TK0B3CK7BSE4RPKY7ZW,Dieter,Mainz,dmainz1n@opera.com,Male,(440) 8627285,11/4/1995,Korean,68747 Oxford Road,Cleveland,Ohio,44177,USA,Platinum,Drama|Romance,No,Plus,SMS,MWR
+01JSX07TK2ATV3KE0BVN5304HR,Hasheem,Hopfner,hhopfner1o@mayoclinic.com,Male,(716) 1979734,5/3/1969,Vietnamese,1 Meadow Valley Place,Buffalo,New York,14225,USA,Bronze,Action|Adventure|War,SMS,Basic,Email,NER
+01JSX07TK43T2FYV2YSE5J5Q3P,Adena,Cockell,acockell1p@nature.com,Female,(801) 6601426,9/16/1968,Chinese,95255 Scoville Parkway,Salt Lake City,Utah,84145,USA,Silver,Sci-Fi|Thriller,No,Basic,Email,WR
+01JSX07TK61XRNC1NKAE7PZEYH,Anni,Mallia,amallia1q@newyorker.com,Female,(513) 8471812,12/11/1968,Spanish,643 Lakewood Trail,Cincinnati,Ohio,45208,USA,Gold,Horror|Thriller,Email,Plus,Email,MWR
+01JSX07TK8SEKVPHDZHA77H872,Kellby,Layfield,klayfield1r@joomla.org,Male,(314) 7453101,5/4/1977,Chinese,0 Hollow Ridge Court,Saint Louis,Missouri,63136,USA,Platinum,Drama,SMS,Basic,Email,MWR
+01JSX07TKAWDZ809H9EK943B8E,Anallese,Domotor,adomotor1s@bigcartel.com,Female,(914) 9520317,10/2/1948,French,0 Lighthouse Bay Circle,White Plains,New York,10606,USA,Bronze,Crime|Mystery|Thriller,Email + SMS,Basic,Phone Call,NER
+01JSX07TKCSSA31X019WGDBDH4,Maxie,Yeoman,myeoman1t@domainmarket.com,Female,(510) 3813291,12/4/1953,English,89275 Corben Trail,Oakland,California,94627,USA,Silver,Documentary,SMS,Basic,Phone Call,WR
+01JSX07TKE5BYGXWC2GF67KTSA,Ruttger,Le Moucheux,rlemoucheux1u@blogtalkradio.com,Male,(850) 3231521,7/2/1990,Chinese,49048 Lake View Way,Pensacola,Florida,32526,USA,Gold,Crime|Drama|Thriller,SMS,Premier,SMS,SR
+01JSX07TKGEDRTAK28TTKMQR9P,Simone,Jovicevic,sjovicevic1v@slashdot.org,Male,(520) 8017522,6/12/1949,Russian,1237 Sommers Alley,Tucson,Arizona,85725,USA,Platinum,Drama|Romance,Email,Plus,Phone Call,WR
+01JSX07TKJSYZBTCX4N39N8CM9,Marve,Hews,mhews1w@quantcast.com,Male,(802) 1646664,2/16/1976,Korean,56 Florence Parkway,Montpelier,Vermont,5609,USA,Bronze,Drama|Romance,No,Plus,Email,NER
+01JSX07TKM4QVNCPF5K46E691B,Tony,Weben,tweben1x@moonfruit.com,Male,(404) 8310853,12/17/1945,German,4180 Melby Point,Atlanta,Georgia,30336,USA,Silver,Comedy|Drama|Musical|Mystery,No,Basic,Phone Call,SR
+01JSX07TKNBFDQC9CW5P9MJ4MQ,Wayne,Husset,whusset1y@g.co,Male,(330) 7411357,5/11/1949,German,4887 Grover Park,Youngstown,Ohio,44555,USA,Gold,Drama|Thriller,Email,Basic,Phone Call,MWR
+01JSX07TKQ1MDPYJRBX6N5R5EB,Karia,Deverock,kdeverock1z@jiathis.com,Polygender,(720) 1199581,5/20/1991,Arabic,8 Sunnyside Junction,Denver,Colorado,80209,USA,Platinum,Horror|Mystery|Sci-Fi,No,Basic,SMS,WR
+01JSX07TKS1SNX4P9WMYY8Z84V,Melba,Dudson,mdudson20@psu.edu,Female,(830) 8988457,11/12/1979,Russian,2851 Pennsylvania Pass,San Antonio,Texas,78255,USA,Bronze,Comedy|Romance,Email + SMS,Plus,Email,SR
+01JSX07TKVKM6443VT7BJSNFH5,Broderick,Sate,bsate21@spiegel.de,Male,(323) 6614869,10/27/1949,Chinese,74859 Crowley Lane,Los Angeles,California,90094,USA,Silver,Comedy|Drama|Romance,No,Premier,Phone Call,WR
+01JSX07TKXZ66R84PM2XE15D2D,Dollie,Gethyn,dgethyn22@unc.edu,Female,(813) 8589277,11/19/1997,Vietnamese,31 Knutson Crossing,Tampa,Florida,33610,USA,Gold,Adventure|Animation|Comedy,Email,Basic,SMS,SR
+01JSX07TKZ4F8AYMJNWBNDK9X1,Garner,Destouche,gdestouche23@umich.edu,Male,(251) 7859147,9/23/1993,French,40 Gerald Alley,Mobile,Alabama,36610,USA,Platinum,Crime|Thriller,No,Premier,SMS,SR
+01JSX07TM1XKXXP1F8FKZD3VWW,Haven,Urquhart,hurquhart24@smh.com.au,Male,(518) 1922469,4/12/1964,Vietnamese,63201 Schiller Circle,Albany,New York,12237,USA,Bronze,Crime|Drama,SMS,Basic,Phone Call,NER
+01JSX07TM3R374GYKD1A5GCHWX,Felic,Sylvaine,fsylvaine25@wunderground.com,Male,(585) 9756509,12/10/1977,Vietnamese,6 Anzinger Court,Rochester,New York,14614,USA,Silver,Musical,Phone Call,Plus,Email,NER
+01JSX07TM5E7REWKNAQQX8F1D9,Rayshell,Bottelstone,rbottelstone26@bloglovin.com,Female,(214) 2344736,12/18/1986,Chinese,8076 Colorado Court,Garland,Texas,75049,USA,Gold,Comedy,No,Plus,SMS,SR
+01JSX07TM7HNK1HGBE7NVBVXYP,Gerry,Norton,gnorton27@discuz.net,Female,(253) 8547229,1/27/1964,Chinese,2101 Melrose Road,Tacoma,Washington,98411,USA,Platinum,Children|Comedy,No,Elite,Phone Call,WR
+01JSX07TM9A6QFMPGA332KJCD7,Ricoriki,Speare,rspeare28@unicef.org,Male,(330) 3426180,3/11/1998,Spanish,11 Beilfuss Place,Canton,Ohio,44760,USA,Bronze,Comedy|Crime,Email,Premier,SMS,MWR
+01JSX07TMBPNT1G7J11BDCKJMN,Rafaela,Peckitt,rpeckitt29@lulu.com,Bigender,(862) 2768875,3/19/1942,German,13689 Ryan Point,Newark,New Jersey,7188,USA,Silver,Drama,No,Basic,Phone Call,NER
+01JSX07TMDA6C33MZWDEEYYB0Y,Sam,Olesen,solesen2a@mail.ru,Female,(919) 8088708,4/9/1941,Russian,556 Lake View Plaza,Raleigh,North Carolina,27605,USA,Gold,Horror|Thriller,No,Plus,Phone Call,SR
+01JSX07TMFWSZ0P12E1DHXAY11,Barney,Treanor,btreanor2b@businesswire.com,Male,(808) 2855022,12/28/1989,Arabic,5 Fisk Place,Honolulu,Hawaii,96825,USA,Platinum,Adventure|Western,Phone Call,Plus,SMS,WR
+01JSX07TMHCSG3XH26B2F258CP,Reinaldos,Serck,rserck2c@sciencedirect.com,Male,(352) 8823002,8/5/1942,Russian,1 Delladonna Hill,Spring Hill,Florida,34611,USA,Bronze,Action,SMS,Basic,Phone Call,SR
+01JSX07TMKDWJYPJ40H7QQ17HF,Nowell,Schwander,nschwander2d@blogtalkradio.com,Bigender,(714) 6923855,4/27/1991,French,8 Annamark Way,Fullerton,California,92835,USA,Silver,Drama,Email,Basic,SMS,WR
+01JSX07TMNSSSPRK262R9HEZJD,Winona,Ledgeway,wledgeway2e@friendfeed.com,Female,(816) 2254094,6/6/1942,Spanish,3221 Graedel Junction,Kansas City,Missouri,64125,USA,Gold,Drama,Email,Plus,Phone Call,MWR
+01JSX07TMQ6Z3E1QZ77QTGMCJE,Melisse,Sonnenschein,msonnenschein2f@unicef.org,Female,(205) 3516251,4/21/1999,Spanish,87 Hudson Junction,Birmingham,Alabama,35231,USA,Platinum,Comedy,SMS,Elite,SMS,SR
+01JSX07TMSE5AB7X7HFCMKEXJK,Merridie,Hamor,mhamor2g@microsoft.com,Female,(816) 9598903,9/7/1943,Spanish,40501 Gina Lane,Kansas City,Missouri,64101,USA,Bronze,Comedy|Romance,Email,Plus,Phone Call,MWR
+01JSX07TMVPW8TD427SH4GTQ7H,Filide,Czapla,fczapla2h@geocities.jp,Female,(251) 7453586,9/22/1980,Russian,659 Derek Street,Mobile,Alabama,36622,USA,Silver,Drama|Thriller,Email,Plus,Email,SR
+01JSX07TMX589K7G6FK252JAQX,Myrvyn,MacGlory,mmacglory2i@ucoz.ru,Male,(318) 8308762,8/25/1952,Korean,75 Cottonwood Junction,Shreveport,Louisiana,71105,USA,Gold,Drama|Mystery|Thriller,Email,Basic,Phone Call,SR
+01JSX07TMZDSC992A2MMT3RDVH,Kim,McDonnell,kmcdonnell2j@shareasale.com,Male,(304) 1048383,1/11/1972,Russian,86504 Fuller Alley,Huntington,West Virginia,25709,USA,Platinum,Comedy|Romance,Email + SMS,Basic,Email,SR
+01JSX07TN1AQ5YZQEN16K49CKT,Vivyan,Teenan,vteenan2k@meetup.com,Female,(425) 2004038,5/26/1940,Chinese,1 Heffernan Crossing,Seattle,Washington,98109,USA,Bronze,Animation|Drama|War,No,Basic,Phone Call,WR
+01JSX07TN3HJDH4YQJ2882EXFH,Halimeda,Dorrington,hdorrington2l@ftc.gov,Female,(405) 6874609,9/29/1998,French,3 Cambridge Avenue,Oklahoma City,Oklahoma,73114,USA,Silver,Action|Adventure|Children|Fantasy,No,Basic,SMS,SR
+01JSX07TN5TKKNPEJC99WEVWJP,Ingmar,McCarron,imccarron2m@over-blog.com,Genderfluid,(530) 3343039,12/16/1977,Chinese,030 Fallview Crossing,South Lake Tahoe,California,96154,USA,Gold,Drama|Thriller,No,Plus,Email,WR
+01JSX07TN7EK9H8P7K8Z25BT9V,Abigale,Grimwad,agrimwad2n@feedburner.com,Female,(408) 5305881,4/15/1963,Korean,554 Ilene Lane,San Jose,California,95108,USA,Platinum,Comedy|Romance,No,Basic,Phone Call,WR
+01JSX07TN9HZBGY84GPZ73JJ70,Elwin,Shatliff,eshatliff2o@spotify.com,Male,(702) 1211161,6/14/1983,English,0876 Clarendon Road,Las Vegas,Nevada,89120,USA,Bronze,Children|Fantasy,SMS,Basic,Email,WR
+01JSX07TNBFY799ZWF3GRGMYDT,Emeline,Shuttlewood,eshuttlewood2p@opera.com,Female,(360) 4343626,6/22/1976,Vietnamese,92410 Esker Pass,Vancouver,Washington,98687,USA,Silver,Comedy,No,Basic,Email,WR
+01JSX07TND1TWRKC7PBBNY0VCR,Gabriel,Dochon,gdochon2q@bloglines.com,Genderqueer,(850) 7524405,9/23/1995,Chinese,1 Truax Drive,Panama City,Florida,32405,USA,Gold,Comedy|Drama,Phone Call,Basic,SMS,SR
+01JSX07TNFENCK1J4SPJTNK6PS,Mignon,Hundal,mhundal2r@i2i.jp,Female,(202) 2650081,8/16/1950,Korean,5 Nelson Crossing,Washington,District of Columbia,20420,USA,Platinum,Comedy|Crime,Email + SMS,Basic,Phone Call,SR
+01JSX07TNHVKXAZE8Y0G5MDZYY,Silvana,Widdecombe,swiddecombe2s@squidoo.com,Female,(706) 9971215,6/11/1977,English,81303 Reinke Terrace,Augusta,Georgia,30905,USA,Bronze,Drama|Romance,No,Basic,Email,SR
+01JSX07TNKEG8BGA0B4C3PTCDC,Legra,Crannach,lcrannach2t@twitter.com,Female,(512) 2534334,6/15/1968,Spanish,4706 Grasskamp Place,Austin,Texas,78754,USA,Silver,Drama,No,Plus,Email,SR
+01JSX07TNNEBSHBGK1TP6AXSV1,Amory,Bains,abains2u@epa.gov,Male,(334) 9621685,8/28/1995,German,2 Old Shore Pass,Montgomery,Alabama,36114,USA,Gold,Children|Drama,No,Elite,SMS,SR
+01JSX07TNQTABQ8FJ5VFKEPA2X,Brinn,Guare,bguare2v@thetimes.co.uk,Female,(785) 1306504,2/25/1951,French,4 4th Park,Topeka,Kansas,66617,USA,Platinum,Comedy,Email,Elite,Phone Call,MWR
+01JSX07TNSTFTY24QX8PVEC173,Eleanora,Tankard,etankard2w@fotki.com,Female,(808) 8162554,3/14/1973,Spanish,3 Holmberg Park,Honolulu,Hawaii,96805,USA,Bronze,Drama,Phone Call,Elite,Email,WR
+01JSX07TNVBHJAXXXAZXBDKRTF,Patric,Chazotte,pchazotte2x@bluehost.com,Male,(612) 2410019,7/6/2001,Vietnamese,6751 Westport Circle,Minneapolis,Minnesota,55423,USA,Silver,Horror|Sci-Fi|Thriller,Email,Elite,SMS,MWR
+01JSX07TNXHW5HP91PY6T34Q97,Ashton,Segar,asegar2y@blogs.com,Genderqueer,(626) 4882986,8/14/1950,Chinese,7 Carpenter Hill,Pasadena,California,91199,USA,Gold,Comedy|Drama,No,Elite,Phone Call,WR
+01JSX07TNZTG15MXVPPSSH1VXG,Nealon,Natte,nnatte2z@exblog.jp,Male,(973) 9040828,4/16/1983,Russian,101 Northview Way,Newark,New Jersey,7112,USA,Platinum,Documentary,Email + SMS,Premier,Email,NER
+01JSX07TP1PPJEY6FQ0XM2J8MH,Hilda,Nulty,hnulty30@etsy.com,Non-binary,(719) 6484177,1/25/2001,Arabic,063 Corscot Pass,Pueblo,Colorado,81015,USA,Bronze,Horror,No,Basic,SMS,WR
+01JSX07TP3NZ0EPHNYMFN8VY95,Fallon,Lovick,flovick31@studiopress.com,Female,(786) 5756601,8/2/1950,Korean,70298 Montana Road,Hialeah,Florida,33013,USA,Silver,Drama,No,Basic,Phone Call,SR
+01JSX07TP50SJ7CA40ZXVWAKH2,Sada,Godbehere,sgodbehere32@cnbc.com,Female,(210) 3418727,8/12/1942,Arabic,8 Clarendon Parkway,San Antonio,Texas,78225,USA,Gold,Drama,Email,Basic,Phone Call,SR
+01JSX07TP7SJ9XV985CH0M00RX,Raul,Denyer,rdenyer33@mac.com,Male,(502) 3404059,2/18/1973,English,1562 Mccormick Drive,Louisville,Kentucky,40205,USA,Platinum,Sci-Fi|Thriller,Email + SMS,Plus,Email,SR
+01JSX07TP9QGGQ5CQKPKPRBRGE,Arnaldo,Broadberry,abroadberry34@behance.net,Male,(573) 8568905,5/8/1963,French,5 Farmco Hill,Jefferson City,Missouri,65105,USA,Bronze,Drama,No,Basic,Phone Call,MWR
+01JSX07TPBWYQJ849V8TNDPPPM,Calla,Stoodale,cstoodale35@msu.edu,Female,(210) 9442807,2/26/1971,Arabic,1 Johnson Trail,San Antonio,Texas,78205,USA,Silver,Horror,Phone Call,Elite,Email,SR
+01JSX07TPDQDMZHQS95JJ8RVNW,Tann,Abbado,tabbado36@soup.io,Male,(210) 6434830,5/10/1984,Chinese,977 Scofield Street,San Antonio,Texas,78220,USA,Gold,Action|Crime|Drama,No,Basic,Email,SR
+01JSX07TPFTJY2S20JZKJR9HVK,Malchy,Piser,mpiser37@linkedin.com,Male,(704) 1981248,2/16/1985,Vietnamese,54051 Meadow Valley Road,Charlotte,North Carolina,28215,USA,Platinum,Action|Adventure|Sci-Fi|Western,SMS,Plus,Email,SR
+01JSX07TPHK6TYZ8W42KVTP4VJ,Huntley,Pere,hpere38@uol.com.br,Male,(617) 5260399,4/29/2001,Vietnamese,38896 Independence Point,Boston,Massachusetts,2283,USA,Bronze,Mystery|Thriller,No,Basic,SMS,NER
+01JSX07TPK3K3FQWX3KN2DBYVW,Ulick,Bohden,ubohden39@usgs.gov,Male,(304) 7041154,10/17/1996,Arabic,019 Kingsford Drive,Charleston,West Virginia,25356,USA,Silver,Documentary|War,No,Elite,SMS,SR
+01JSX07TPNNPDTCGF9D8WHP439,Bee,Ahmed,bahmed3a@amazon.co.uk,Female,(213) 5466562,8/17/1998,Spanish,5097 Miller Lane,Los Angeles,California,90050,USA,Gold,Comedy|Drama,No,Basic,SMS,WR
+01JSX07TPQ97WQ5CX1AH8HFP3B,Carling,Hallock,challock3b@ow.ly,Male,(504) 1657099,8/26/1946,Arabic,8 Pond Lane,New Orleans,Louisiana,70129,USA,Platinum,Comedy,SMS,Basic,Phone Call,SR
+01JSX07TPSZ9QJAFDA1NFYSP3M,Vivyan,Handrick,vhandrick3c@ftc.gov,Polygender,(501) 8650651,7/25/1958,Spanish,2121 Pierstorff Drive,North Little Rock,Arkansas,72199,USA,Bronze,Drama,No,Elite,Phone Call,SR
+01JSX07TPV0PY4QSHVX8AS1MTW,Cynthia,Enos,cenos3d@omniture.com,Female,(773) 6077785,7/14/2003,German,71636 Aberg Street,Chicago,Illinois,60657,USA,Silver,Drama,Email,Elite,SMS,MWR
+01JSX07TPXKKQBHH27C201S9Q0,Babbette,Gooder,bgooder3e@hexun.com,Female,(509) 4351192,4/23/1960,Spanish,58776 Kensington Pass,Spokane,Washington,99220,USA,Gold,Drama,Email,Basic,Phone Call,WR
+01JSX07TPZSYS2S3A236656S2B,Almira,Bantham,abantham3f@discuz.net,Agender,(702) 6189856,3/18/1981,German,2 Acker Plaza,Las Vegas,Nevada,89105,USA,Platinum,Adventure|Animation|Children,No,Basic,Email,WR
+01JSX07TQ1F82BKK66C04WWN6Z,Hedda,Rossborough,hrossborough3g@squidoo.com,Female,(901) 5826593,4/15/1993,French,85517 Goodland Alley,Memphis,Tennessee,38150,USA,Bronze,Adventure|Animation|Fantasy|Romance,Email,Basic,SMS,SR
+01JSX07TQ32KEBQ5PM1STY17N4,Davey,Mignot,dmignot3h@eepurl.com,Non-binary,(302) 9699290,3/23/1995,Vietnamese,90 Mallory Plaza,Wilmington,Delaware,19897,USA,Silver,Comedy|Horror,Email,Basic,SMS,SR
+01JSX07TQ6WS2XKYH7369EN49E,Lutero,Andreone,landreone3i@google.com.hk,Male,(202) 6467271,2/23/1981,German,04 Buell Lane,Washington,District of Columbia,20067,USA,Gold,Drama,SMS,Basic,Email,SR
+01JSX07TQ7HYWGFJ3J2QBVSNRH,Chloette,Kevis,ckevis3j@yelp.com,Female,(409) 4701044,12/1/1971,French,44491 Hansons Drive,Galveston,Texas,77554,USA,Platinum,Drama|War,No,Basic,Email,SR
+01JSX07TQ9H793KVC509ETX6QK,Arvy,Petrushkevich,apetrushkevich3k@google.ca,Male,(212) 9379822,1/17/1942,Arabic,31 Homewood Circle,New York City,New York,10175,USA,Bronze,Comedy,SMS,Elite,Phone Call,NER
+01JSX07TQB7XCCSBGHT9VJQ6AN,Gisella,Harron,gharron3l@constantcontact.com,Polygender,(202) 6859907,8/25/1958,English,59526 North Court,Washington,District of Columbia,20215,USA,Silver,Thriller,No,Basic,Phone Call,SR
+01JSX07TQEYH1SGFK1SY5GDD8A,Franciskus,Bosden,fbosden3m@t.co,Male,(540) 1953649,9/11/1957,Korean,0 Sutteridge Alley,Fredericksburg,Virginia,22405,USA,Gold,Adventure,No,Basic,Phone Call,SR
+01JSX07TQG4QQFCYETP92HBKQZ,Felice,Quincey,fquincey3n@tumblr.com,Female,(813) 5798517,5/1/1958,Chinese,2 Ronald Regan Pass,Tampa,Florida,33694,USA,Platinum,Comedy|Romance,No,Basic,Phone Call,SR
+01JSX07TQJAS45XRJCZ7DSN4XX,Biddy,Dellatorre,bdellatorre3o@tripod.com,Female,(248) 1119230,6/10/1978,Korean,2 Killdeer Drive,Detroit,Michigan,48242,USA,Bronze,Drama|Mystery,No,Basic,Email,MWR
+01JSX07TQM89EQWW7VAM5153QB,Parsifal,Shyre,pshyre3p@imdb.com,Male,(407) 3594823,3/1/1954,Chinese,8398 Crescent Oaks Street,Orlando,Florida,32819,USA,Silver,Drama,No,Basic,Phone Call,SR
+01JSX07TQPG80RWDEA37RDV3NJ,Shem,Searsby,ssearsby3q@artisteer.com,Male,(352) 9325409,2/22/1976,Arabic,22234 Lighthouse Bay Park,Ocala,Florida,34474,USA,Gold,Drama,No,Basic,Email,SR
+01JSX07TQRHHYE9NZ0GNKHRJH2,Christopher,Foulsham,cfoulsham3r@gnu.org,Male,(586) 2419085,3/1/1949,English,09 Annamark Terrace,Detroit,Michigan,48224,USA,Platinum,Thriller,Email,Plus,Phone Call,MWR
+01JSX07TQTJXR4793JDNP4VKS6,Mortie,Doodney,mdoodney3s@woothemes.com,Male,(801) 1191851,2/26/1978,French,028 Lake View Pass,Sandy,Utah,84093,USA,Bronze,Documentary,Email,Plus,Email,WR
+01JSX07TQWXK5DK0QP5ZQW5MGA,Valene,Grummitt,vgrummitt3t@meetup.com,Female,(559) 7445233,9/8/1956,French,042 Bayside Avenue,Fresno,California,93750,USA,Silver,Comedy,Phone Call,Basic,Phone Call,WR
+01JSX07TRAZ3CJEN9WPKM6F8ZD,Stern,Djekovic,sdjekovic3u@istockphoto.com,Male,(303) 6018753,12/10/1990,Vietnamese,7261 Cordelia Point,Denver,Colorado,80204,USA,Gold,Comedy|Crime,No,Plus,SMS,WR
+01JSX07TRCJJK4V4WC7MDP8CZG,Germayne,Athy,gathy3v@edublogs.org,Male,(212) 8279397,9/1/1959,French,6 Sycamore Avenue,Brooklyn,New York,11247,USA,Platinum,Crime|Mystery|Thriller,No,Basic,Phone Call,NER
+01JSX07TREBVSPJMK2YJAPVP2P,Krysta,Mannin,kmannin3w@123-reg.co.uk,Female,(304) 5247704,7/14/1952,Vietnamese,8 7th Junction,Charleston,West Virginia,25389,USA,Bronze,Action,No,Basic,Phone Call,SR
+01JSX07TRG2V4JNT2NS7AXCHNE,Reid,O'Concannon,roconcannon3x@bloomberg.com,Male,(404) 2324015,10/18/1985,German,313 East Alley,Decatur,Georgia,30089,USA,Silver,Action|Drama|Thriller,SMS,Elite,Email,SR
+01JSX07TRJ4DJHHA4ZVN6HA2SG,Howey,Keri,hkeri3y@dell.com,Male,(757) 1302262,10/7/1973,Korean,65 Debra Circle,Chesapeake,Virginia,23324,USA,Gold,Action|Comedy|Crime|Thriller,SMS,Basic,Email,SR
+01JSX07TRNZ36SA53RR5DVPPZB,Adeline,Capes,acapes3z@opensource.org,Female,(412) 6197627,5/9/2003,German,0392 Ridge Oak Trail,Pittsburgh,Pennsylvania,15230,USA,Platinum,Crime|Drama|Thriller,Email + SMS,Basic,SMS,NER
+01JSX07TRQ17E36577RSNNAR6M,Jacky,Quade,jquade40@cornell.edu,Female,(336) 5632700,1/7/1958,German,10 Holy Cross Way,Winston Salem,North Carolina,27116,USA,Bronze,Crime|Horror|Thriller,No,Premier,Phone Call,SR
+01JSX07TRSMSVETJAWRB1KTX27,Jamill,Scocroft,jscocroft41@rakuten.co.jp,Bigender,(646) 6727094,11/19/1990,Arabic,600 Burrows Pass,New York City,New York,10034,USA,Silver,War,No,Basic,SMS,NER
+01JSX07TRV8SS4DDEP5FA4JXT3,Baxie,Adkins,badkins42@cbslocal.com,Male,(605) 1899210,2/27/1965,Korean,04125 Troy Plaza,Sioux Falls,South Dakota,57110,USA,Gold,Drama,No,Elite,Phone Call,MWR
+01JSX07TRXKD11807HMQ2EYJ3E,Teresita,Gunthorp,tgunthorp43@usa.gov,Genderfluid,(601) 9114311,3/3/1941,Russian,377 Comanche Road,Meridian,Mississippi,39305,USA,Platinum,Drama,Email + SMS,Plus,Phone Call,SR
+01JSX07TS01RVS05QHF5BGYZ7D,Jessie,McVrone,jmcvrone44@moonfruit.com,Female,(573) 2657579,9/6/1947,German,9 Coleman Way,Jefferson City,Missouri,65105,USA,Bronze,Crime|Drama|Mystery|Thriller,Email,Basic,Phone Call,MWR
+01JSX07TS3PX2W5XR61KQJYHHS,Maggy,Celand,mceland45@npr.org,Female,(617) 8390542,1/22/1941,Spanish,661 Colorado Park,Boston,Massachusetts,2216,USA,Silver,Comedy|Drama,Email,Basic,Phone Call,NER
+01JSX07TS60CV44A8ST8VJTCDY,Fidelio,Hazart,fhazart46@paypal.com,Male,(281) 3029116,10/30/1983,Vietnamese,9557 Toban Plaza,Houston,Texas,77075,USA,Gold,Crime|Film-Noir|Thriller,Email + SMS,Plus,Email,SR
+01JSX07TS85J73E57GD23NR4T4,Tiler,Alelsandrowicz,talelsandrowicz47@census.gov,Male,(901) 2740611,9/6/1942,Arabic,5 Katie Point,Memphis,Tennessee,38136,USA,Platinum,Comedy,No,Basic,Phone Call,SR
+01JSX07TSAXPZHNK0B8FYK2EKE,Lazare,Haddington,lhaddington48@newyorker.com,Male,(609) 4210976,9/25/1958,Russian,1 Hagan Street,Trenton,New Jersey,8603,USA,Bronze,Comedy|Drama|Romance|War,Email + SMS,Basic,Phone Call,NER
+01JSX07TSCG9YYQYFJ9NXY8604,Davidson,Shill,dshill49@springer.com,Male,(504) 6516066,8/2/1955,Chinese,728 Maple Wood Road,New Orleans,Louisiana,70116,USA,Silver,Drama,No,Basic,Phone Call,SR
+01JSX07TSEN1FST6PBMY66WZ2C,Ericka,Guerrero,eguerrero4a@dropbox.com,Genderfluid,(817) 4646358,8/28/1994,Arabic,9385 Cherokee Plaza,Fort Worth,Texas,76121,USA,Gold,Comedy|Fantasy|Musical|Romance,SMS,Basic,SMS,SR
+01JSX07TSHJM27JZJV4ZCC14NN,Eirena,Vamplers,evamplers4b@homestead.com,Female,(605) 4966778,2/1/1968,Arabic,969 Arrowood Junction,Sioux Falls,South Dakota,57188,USA,Platinum,Crime|Thriller,SMS,Plus,Email,MWR
+01JSX07TSKTCKPY01CP0S8P1YJ,Arlina,Palatino,apalatino4c@qq.com,Agender,(608) 6496816,11/17/1987,English,1577 Kingsford Way,Madison,Wisconsin,53705,USA,Bronze,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi,No,Basic,SMS,MWR
+01JSX07TSPARG8PQ9E95CVNXRM,Karlie,Jaulmes,kjaulmes4d@sphinn.com,Female,(832) 5240153,4/30/1943,Vietnamese,09999 Logan Road,Houston,Texas,77015,USA,Silver,Documentary,SMS,Elite,Phone Call,SR
+01JSX07TSSXG6NXBSWKEWY5DYZ,Sigmund,Blayd,sblayd4e@apache.org,Genderfluid,(323) 5375948,3/21/1960,Chinese,348 Randy Street,Los Angeles,California,90076,USA,Gold,Action,No,Basic,Phone Call,WR
+01JSX07TSVQQ2C83218FXKM965,Estrella,Van den Velde,evandenvelde4f@ow.ly,Female,(408) 9119075,12/20/1955,German,30122 Jenifer Center,San Jose,California,95138,USA,Platinum,Comedy|Crime|Romance,Email,Elite,Phone Call,WR
+01JSX07TSX1WKGWTD3GTTR7RK5,Justino,Goodboddy,jgoodboddy4g@cloudflare.com,Male,(202) 7275237,9/12/1996,Vietnamese,00 Killdeer Court,Washington,District of Columbia,20409,USA,Bronze,Documentary,No,Plus,SMS,SR
+01JSX07TSZK9NACCCXJWZZAAPN,Vittoria,Dansken,vdansken4h@squidoo.com,Female,(912) 3765883,3/8/1971,Spanish,0539 Hoard Drive,Savannah,Georgia,31410,USA,Silver,Drama,SMS,Basic,Email,SR
+01JSX07TT26QR7XP8Y2ZC6V17N,Nicolea,Murison,nmurison4i@omniture.com,Female,(315) 6254105,4/22/2006,Spanish,80 Golf View Drive,Rochester,New York,14614,USA,Gold,Documentary,Email + SMS,Basic,SMS,NER
+01JSX07TT4BS6VC3F99ATFBHJ6,Arlina,Starton,astarton4j@epa.gov,Female,(816) 9030565,8/29/1957,English,8 Trailsway Place,Saint Joseph,Missouri,64504,USA,Platinum,Comedy|Crime|Mystery|Thriller,Email,Basic,Phone Call,MWR
+01JSX07TT7PWERW2NH93GAWBNB,Brigid,Stitch,bstitch4k@blogspot.com,Female,(317) 6859446,8/2/1957,Vietnamese,2 Basil Place,Indianapolis,Indiana,46295,USA,Bronze,Adventure|Drama|Romance,No,Basic,Phone Call,MWR
+01JSX07TT9S409E17Q4D4PWW4K,Skelly,Jenkinson,sjenkinson4l@tamu.edu,Male,(719) 7960905,8/30/1995,French,797 Lindbergh Trail,Colorado Springs,Colorado,80945,USA,Silver,Comedy|Crime,No,Basic,SMS,WR
+01JSX07TTD7PR813VJAEARXV7R,Osbourn,Parr,oparr4m@umn.edu,Male,(309) 2218627,7/15/1951,English,4638 Village Trail,Peoria,Illinois,61605,USA,Gold,Animation|Children|Comedy,SMS,Premier,Phone Call,MWR
+01JSX07TTFWCFJVXEMPJ0P26G7,Zollie,MacParlan,zmacparlan4n@networkadvertising.org,Male,(407) 5037102,10/8/2005,German,25 Anzinger Terrace,Orlando,Florida,32803,USA,Platinum,Drama|Romance|Sci-Fi|Thriller,No,Basic,SMS,SR
+01JSX07TTH3G231B18ACM6J0TD,Mord,Forbes,mforbes4o@redcross.org,Male,(406) 8831624,10/28/1995,Russian,9 Melody Court,Billings,Montana,59112,USA,Bronze,Comedy|Fantasy|Romance,No,Elite,SMS,WR
+01JSX07TTMF17VEAN80EYJ2QNE,Sheridan,Oldroyde,soldroyde4p@photobucket.com,Male,(954) 8613536,8/25/1954,Spanish,5 8th Avenue,West Palm Beach,Florida,33411,USA,Silver,Drama,Email + SMS,Basic,Phone Call,SR
+01JSX07TTQWKSCJJNQJ3EC83BN,Fidela,Legon,flegon4q@sfgate.com,Female,(260) 1621825,11/26/1958,Vietnamese,3516 Annamark Park,Fort Wayne,Indiana,46862,USA,Gold,Action|Adventure|Animation|Children|Comedy,No,Elite,Phone Call,MWR
+01JSX07TTTXNGMSFTV0Y9Y8RTB,Rollie,Brimmacombe,rbrimmacombe4r@youtube.com,Male,(314) 8232318,7/3/1976,Arabic,65 Raven Pass,Saint Louis,Missouri,63143,USA,Platinum,Children|Comedy,Phone Call,Basic,Email,MWR
+01JSX07TTW1KV4WDAKQ0P70AF5,Jilli,Winspire,jwinspire4s@wired.com,Female,(212) 8526973,8/27/1978,Spanish,35094 Green Lane,Jamaica,New York,11431,USA,Bronze,Action|Adventure|Romance,Email,Plus,Email,NER
+01JSX07TTZWBMCDPEKSGNC0XQF,Simone,Bouchier,sbouchier4t@epa.gov,Polygender,(913) 9415716,1/7/1963,Chinese,90 Coleman Court,Shawnee Mission,Kansas,66286,USA,Silver,Drama,No,Basic,Phone Call,MWR
+01JSX07TV1GTDMC5S41VHRK1P5,Alister,Chave,achave4u@google.de,Male,(832) 1781841,3/13/1974,Spanish,96 Dixon Road,Houston,Texas,77010,USA,Gold,Comedy,Phone Call,Plus,Email,SR
+01JSX07TV3FY8B26JS94WD6G2G,Stearne,Radden,sradden4v@discuz.net,Male,(323) 5601856,2/11/1975,Russian,5178 Harbort Parkway,Long Beach,California,90810,USA,Platinum,Horror|Thriller,Phone Call,Basic,Email,WR
+01JSX07TV6XTEMYZB4M4SSPPV5,Walker,Berecloth,wberecloth4w@whitehouse.gov,Male,(757) 1738437,6/28/1947,English,652 Golden Leaf Park,Norfolk,Virginia,23509,USA,Bronze,Comedy|Drama,No,Basic,Phone Call,SR
+01JSX07TV96B5J4MT7QBZAD992,Phyllys,Esley,pesley4x@livejournal.com,Female,(702) 2832565,1/20/1958,French,91110 Canary Lane,Henderson,Nevada,89012,USA,Silver,Thriller,Email,Elite,Phone Call,WR
+01JSX07TVCNW0RRJWY686D4ZFS,Gideon,Stinton,gstinton4y@usda.gov,Male,(865) 8647341,10/2/1974,German,0803 Northview Trail,Knoxville,Tennessee,37914,USA,Gold,Drama,Email,Elite,Email,SR
+01JSX07TVF8E252EPWVXA351AW,Hill,Tarbard,htarbard4z@nyu.edu,Male,(503) 7262812,3/6/1965,Arabic,5407 Rusk Junction,Portland,Oregon,97229,USA,Platinum,Drama,Email,Basic,Phone Call,WR
+01JSX07TVJ80AQQ8MPMEGSG69K,Taddeusz,Christophersen,tchristophersen50@lycos.com,Male,(714) 8376257,9/9/1980,German,6065 Northview Drive,Orange,California,92862,USA,Bronze,Comedy|Drama|Romance,No,Basic,Email,WR
+01JSX07TVNV83QWC5R6EK9FSJ7,Koo,Enbury,kenbury51@behance.net,Female,(480) 4600638,6/19/1984,English,1794 Algoma Way,Scottsdale,Arizona,85255,USA,Silver,Crime|Horror,No,Basic,Email,WR
+01JSX07TVQ979AZXPVCJVX5FKG,Orelee,Balwin,obalwin52@bbb.org,Female,(208) 1298091,3/9/1982,Arabic,809 Crest Line Point,Boise,Idaho,83705,USA,Gold,Action|Crime|Thriller,SMS,Elite,Email,WR
+01JSX07TVSP9R4MTZ0R754N37Q,Ludovika,Elmes,lelmes53@mapquest.com,Female,(915) 1710893,9/27/1953,Arabic,0310 Prairie Rose Alley,El Paso,Texas,88525,USA,Platinum,Action|Adventure|Children,No,Basic,Phone Call,SR
+01JSX07TVV4FF5P5BSN81QGFB3,Jerrilee,Shreve,jshreve54@ask.com,Genderfluid,(614) 9646963,11/8/1976,Russian,2000 Gulseth Street,Columbus,Ohio,43220,USA,Bronze,Drama,Email,Basic,Email,MWR
+01JSX07TVXX40MKJFWGP2V3YM2,Kippy,Atto,katto55@51.la,Female,(517) 9768365,3/6/1952,English,628 Dwight Place,Lansing,Michigan,48919,USA,Silver,Crime|Drama|Romance,Email,Plus,Phone Call,MWR
+01JSX07TVZQT2ZV9QCHV661AV0,Nilson,Enever,nenever56@cbsnews.com,Male,(508) 4615719,12/22/1946,French,994 International Alley,Brockton,Massachusetts,2405,USA,Gold,Adventure|Drama|Mystery|Thriller,No,Premier,Phone Call,NER
+01JSX07TW2KGDWBF90T9R6XY0Z,Hulda,Dragonette,hdragonette57@samsung.com,Female,(602) 1712066,11/10/1986,English,3 Anzinger Terrace,Phoenix,Arizona,85005,USA,Platinum,Comedy,Email,Basic,SMS,WR
+01JSX07TW4SGXFS2RHKKHAXGDV,Jerrie,Stent,jstent58@csmonitor.com,Male,(704) 3003274,5/17/2002,Korean,6 Trailsway Circle,Charlotte,North Carolina,28220,USA,Bronze,Drama,No,Elite,SMS,SR
+01JSX07TW6KDGSC5N6BF3Y68M9,Haywood,Coupar,hcoupar59@engadget.com,Male,(904) 1464436,5/12/1952,Chinese,86 Arkansas Park,Jacksonville,Florida,32244,USA,Silver,(no genres listed),No,Basic,Phone Call,SR
+01JSX07TW8ZZZ0T8XFVJJVMV00,Isa,McLanaghan,imclanaghan5a@ca.gov,Male,(212) 2283350,4/15/1973,Arabic,0 Buena Vista Terrace,New York City,New York,10203,USA,Gold,Action|Crime|Drama,Email,Elite,Email,NER
+01JSX07TWA3P3XD38AK0B8AK6M,Kalina,Duguid,kduguid5b@ucoz.ru,Female,(202) 8921775,4/6/1950,German,1 Kings Hill,Washington,District of Columbia,20540,USA,Platinum,Horror,SMS,Basic,Phone Call,SR
+01JSX07TWD26QGAW8MS7YR9J69,Ciro,Menchenton,cmenchenton5c@fotki.com,Male,(773) 2256276,12/29/1974,German,90 Banding Alley,Chicago,Illinois,60646,USA,Bronze,Crime|Drama|Romance,SMS,Plus,Email,MWR
+01JSX07TWFP0V7V1YV4EJGAD68,Antonina,Beveridge,abeveridge5d@themeforest.net,Female,(812) 9805441,3/18/1999,Chinese,844 Fairfield Crossing,Evansville,Indiana,47705,USA,Silver,Comedy|Romance,No,Elite,SMS,MWR
+01JSX07TWH7866KFZPV13WKK9T,Olag,Medmore,omedmore5e@jalbum.net,Male,(701) 5088595,7/21/1973,Spanish,75010 American Lane,Bismarck,North Dakota,58505,USA,Gold,Thriller,No,Basic,Email,MWR
+01JSX07TWMDNZMBWT5ZYWXVCHT,Hana,Filon,hfilon5f@nymag.com,Polygender,(602) 8357649,3/10/1996,Korean,69 High Crossing Hill,Phoenix,Arizona,85072,USA,Platinum,Comedy|Drama,Email + SMS,Elite,SMS,WR
+01JSX07TWP2TWHCAB6R5K2BPJP,Scott,Benduhn,sbenduhn5g@wiley.com,Male,(913) 4378193,12/25/1960,French,78706 Washington Junction,Shawnee Mission,Kansas,66210,USA,Bronze,War,No,Basic,Phone Call,MWR
+01JSX07TWSVJXJGNXAES77EXTB,Remington,Stoppard,rstoppard5h@qq.com,Male,(570) 3952304,12/14/1969,German,64818 Melody Alley,Wilkes Barre,Pennsylvania,18768,USA,Silver,Mystery|Thriller,No,Basic,Email,NER
+01JSX07TWVGEBSVBPPEGM2Y52S,Honor,Leet,hleet5i@psu.edu,Female,(415) 9455125,9/19/1940,Chinese,472 Longview Terrace,San Francisco,California,94126,USA,Gold,Crime|Drama|Romance|Thriller,No,Basic,Phone Call,WR
+01JSX07TWXRAFWEJF02PKC3FGG,Miof mela,Axelby,maxelby5j@jiathis.com,Female,(714) 8270505,4/21/1982,Arabic,80677 Northview Road,Brea,California,92822,USA,Platinum,Drama,Email,Basic,Email,WR
