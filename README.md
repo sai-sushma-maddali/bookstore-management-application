@@ -3,6 +3,7 @@
 A Streamlit-based analytics dashboard for a bookstore database (MySQL).  
 It provides customer insights, review insights, demographics exploration, and sales performance analytics — plus a simple, explainable book recommendation feature driven by purchase history.
 
+Live Application : https://bookstore-management-application.streamlit.app/
 ---
 
 ## Tech Stack
@@ -84,3 +85,5 @@ For a given customer:
 
 This yields **genre-personalized** recommendations driven by historical behavior.
 
+### Set up
+**Database Setup Required:** Users must import the provided MySQL database dump (`artifacts/book_management.sql`) and connect to the database by entering their MySQL credentials (host, port, username, password, and database name) in the Streamlit app sidebar.
