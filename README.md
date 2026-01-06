@@ -82,8 +82,9 @@ For a given customer:
 - Find favorite genre from `customer_frequent_genre`
 - Find already purchased `book_id`s from `customer_book_details`
 - Recommend books from `best_sellers_by_genre` in the same genre excluding purchased `book_id`s
-
 This yields **genre-personalized** recommendations driven by historical behavior.
 
-### Set up
+---
+
+## Set up
 **Database Setup Required:** Users must import the provided MySQL database dump (`artifacts/book_management.sql`) and connect to the database by entering their MySQL credentials (host, port, username, password, and database name) in the Streamlit app sidebar.
